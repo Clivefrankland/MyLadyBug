@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ladybug</string>
+    <string name="title_activity_main">Ladybug</string>
+    <string name="package_name">com.clive.ladybug</string>
+    <string name="custom_url_scheme">com.clive.ladybug</string>
+</resources>
