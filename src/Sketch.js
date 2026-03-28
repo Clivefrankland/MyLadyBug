@@ -94,7 +94,7 @@ function drawCloud(p) {
     <div ref={sketchRef} />
   </Paper>
   );
-  
+  <div>Hello, World!</div>
 };
 
 export default SketchComponent;
