@@ -5,7 +5,7 @@ import p5 from "p5";
 const papersize = window.screen.width *0.45;
 let cloudX = 60;
 let cloudDir = 1;
-<div>Hello, World!</div>
+
 const SketchComponent = () => {
   
   const sketchRef = useRef();
